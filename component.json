@@ -1,0 +1,11 @@
+{
+  "name": "locals",
+  "repo": "component-test/locals",
+  "version": "0.0.1",
+  "paths": [
+    "lib"
+  ],
+  "locals": [
+    "boot"
+  ]
+}

@@ -1,0 +1,9 @@
+{
+  "locals": [
+    "js",
+    "css"
+  ],
+  "scripts": [
+    "index.js"
+  ]
+}
